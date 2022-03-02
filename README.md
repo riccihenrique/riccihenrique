@@ -1,4 +1,7 @@
-### Hi there 👋
+# Olá, eu sou o Henrique!
+## _Instrutor de tecnologia, cientista da computação e apaixonado por Inteligência Artigficial_
+
+Veja um pouco mais sobre mim [aqui](https://riccihenrique.github.io/)
 
 <!--
 **riccihenrique/riccihenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
