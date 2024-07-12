@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">Machine Learning specialist with a background in Computer Science</h3>
+<h3 align="center">Sr. Software Engineer and Machine Learning Specialist</h3>
 
 - 🔭 I’m currently working on **Adiante Recebíveis**
 
-- 🌱 I’m currently learning **Architecture**
+- 🌱 I’m currently learning **Software Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/riccihenrique?tab=repositories](https://github.com/riccihenrique?tab=repositories)
 
-- 💬 Ask me about **AI, software development and best practices**
+- 💬 Ask me about **AI, Software Development, Software Testes and Best Practices**
 
 - 📫 How to reach me **ricci.henrique@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/henriquericci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henriquericci" height="30" width="40" /></a>
-<a href="https://instagram.com/ricci.henriquer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricci.henriquer" height="30" width="40" /></a>
+<a href="https://instagram.com/riccihenriquer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricci.henriquer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
